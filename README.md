@@ -1,13 +1,8 @@
 V. Santos, 08-dez-2019,13:27 o David esteve aqui
 
-Steps for the class
+
 --------------------
 
- - Explain how to install git and create a github account and how to access it.
- - Brief introduction to github
- - Some examples of our projects: [rustbot](https://github.com/miguelriemoliveira/RustBot), [smobex](https://github.com/lardemua/SmObEx), [atlascar2_calibration](https://github.com/lardemua/AtlasCarCalibration) [v3v](https://github.com/miguelriemoliveira/v3v) and [vintra](https://github.com/miguelriemoliveira/vintra-miguel)
- - Some examples of other projects: [octomap](https://github.com/OctoMap/octomap)
- 
   - How to create a fork of this repository or otherwise create a copy to start new developments.
  - **The README.md is everything**!
  - Create a gitignore file
