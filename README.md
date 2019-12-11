@@ -7,12 +7,13 @@ Commiting files
   - git commit -m "you commit text"
   - git push
   
-Compilation
+Compilation and Run
 ------------------------------
   - mkdir build
   - cd build
   - cmake ..
   - make
+  - myf
 
 --------------------
 
