@@ -79,7 +79,6 @@ properly, but they are not necessary for this project. Follow some examples.
 
 ```bash
   sudo apt install xutils-dev graphviz imagemagick
-```
 
 asciidoc
 --------
