@@ -1,12 +1,11 @@
-V. Santos, 08-dez-2019,13:27 
+V. Santos, 08-dez-2019,13:27 o David esteve aqui
 
 Instructions and main packages
 ------------------------------
-  git add .
-  git status
-  git commit -m "you commit text"
-  git push
->>>>>>> 02b024bcda5596461fc6d0bb5d126c948c8c6fe3
+  - git add .
+  - git status
+  - git commit -m "you commit text"
+  - git push
 
 --------------------
 
