@@ -31,11 +31,11 @@ typedef struct { double *x;                   //!<array with polygon x vertices
 
 /** \brief Data type to sore a circular crown */
 typedef struct { double x0, y0;               //!<crown center
-		 double radius;               //!<crown external radius
+		 		double radius;               //!<crown external radius
                  double thickness;            //!<thickness of crown
-		 int fill_color;              //!<fill color of crown
+		 		int fill_color;              //!<fill color of crown
                  int line_color;              //!<line color of crown (not used)
-               } p_crown;
+               	} p_crown;
 
 /** \brief Data type to sore a string based graphic */
 typedef struct { char *str;                   //!<The actual string
@@ -46,12 +46,12 @@ typedef struct { char *str;                   //!<The actual string
 
 /** \brief Data type to store an entire drawing */
 typedef struct  { p_polygon **polys;        //!<Array of p_polygon's pointers
-                  int        num_poly;      //!<Num of p_polygon's
-                  p_string  **strings;      //!<List of p_string's  (char pointers)
-                  int        num_strings;   //!<Num of p_string's
-		  p_crown   **crowns;       //!<List of p_crown's pointers
-		  int        num_crowns;    //!<Num of p_crown's
-                } pari_drawing;
+				int        num_poly;      //!<Num of p_polygon's
+				p_string  **strings;      //!<List of p_string's  (char pointers)
+				int        num_strings;   //!<Num of p_string's
+				p_crown   **crowns;       //!<List of p_crown's pointers
+				int        num_crowns;    //!<Num of p_crown's
+				} pari_drawing;
 
 /** \brief Enumeration of the possible graphics objects */
 typedef enum { STARPOLYGON, REGULARPOLYGON, FREEHANDPOLYGON, CIRCULARCROWN, TEXT} drawings_type;
