@@ -1,4 +1,4 @@
-V. Santos, 08-dez-2019,13:27
+V. Santos, 08-dez-2019,13:27 o David esteve aqui
 
 Steps for the class
 --------------------
