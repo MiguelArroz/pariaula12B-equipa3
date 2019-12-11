@@ -1,5 +1,10 @@
 V. Santos, 08-dez-2019,13:27 o David esteve aqui
 
+#How to send files to online repo
+  -git add .
+  -git status
+  -git commit -m "you commit text"
+  -git push
 
 --------------------
 
